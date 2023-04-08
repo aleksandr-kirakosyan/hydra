@@ -1,3 +1,36 @@
+# HYDRA Website - ## https://hydra-ak.netlify.app/
+
+This project is a website focused on Virtual Reality technology description. 
+It features an immersive experience that lets users explore different virtual environments and interact with various objects using their web browsers. 
+This project is ideal for those who are interested in VR and want to learn more about it.
+
+# Features
+
+3D Effects was built by 'Spline' lib.
+Interactive objects that respond to user input
+Smooth and responsive user experience
+Cross-platform compatibility for web browsers
+
+# Technologies used
+
+React
+Spline
+HTML
+CSS
+JavaScript
+
+Contributing
+If you would like to contribute to this project, please follow the steps below:
+
+Fork this repository to your Github account
+Create a new branch for your changes
+Make your changes and commit them
+Push your changes to your forked repository
+Create a pull request to merge your changes into this repository
+
+# Credits
+This project was created by Aleksandr K. . If you have any questions or feedback, please feel free to contact me at aleksandr.kirakosyan11@gmail.com .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
