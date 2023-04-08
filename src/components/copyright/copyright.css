@@ -1,0 +1,21 @@
+ .copy h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.13em;
+    color: #FFFFFF;
+ }
+
+ .copy{
+    margin-top: 40px;
+
+    padding-top: 40px;
+
+    border-top: 1px solid white;
+
+    padding-bottom: 40px;
+
+    width: 90%;
+ }
