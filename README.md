@@ -1,4 +1,4 @@
-# HYDRA Website - ## https://hydra-ak.netlify.app/
+# HYDRA Website - https://hydra-ak.netlify.app/
 
 This project is a website focused on Virtual Reality technology description. 
 It features an immersive experience that lets users explore different virtual environments and interact with various objects using their web browsers. 
